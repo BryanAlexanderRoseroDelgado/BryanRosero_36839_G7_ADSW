@@ -1,0 +1,3 @@
+L00123456 "Juan Carlos" "Perez" "Av. Amazonas y Colon"
+L00654321 "Maria Elena" "Gomez" "Calle Sucre 456"
+
